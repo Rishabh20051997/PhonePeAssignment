@@ -26,7 +26,8 @@ export const styles = StyleSheet.create({
     titleText: {
         fontSize: 16,
         color: '#333',
-        paddingVertical:2
+        paddingVertical:2,
+        marginRight: 5
     },
     discountText: {
         fontSize: 14,
