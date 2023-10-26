@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
         paddingHorizontal: 10,
         paddingVertical: 5
     },
-    priceContainer: { flexDirection: 'row'},
+    priceContainer: { flexDirection: 'row', flexShrink: 1, overflow: 'hidden'},
     titleText: {
         fontSize: 16,
         color: '#333',
